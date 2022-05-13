@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+}
+.navbar{
+    background-color: #563D7C !important;
+    padding: 10px;
+    
+}
+.nav-link{
+    color: #CBBDE2 !important;
+}
+.active{
+    color:white !important;
+}
+.float-right{
+    float: right !important;
+}
+.logo-barra{
+    margin: 8px;
+}
+.blog{
+    padding-right: 300px;
+}
+.nav-item{
+    padding-left: 15px;
+}
+.row {
+    padding:20px;
+}
+h1{
+    color: #7952B3;
+}
+button{
+    padding: 10px !important;
+    margin: 8px;
+}
+.btn-outline-primary{
+    color: #66409e !important;
+    background-color: white !important;
+    border-color:#7952B3!important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+h5{
+    color: rgb(82, 82, 82);
+}
+.third{
+    background-color: #F8F9FA;
+}
+.collect{
+    background-color: #F8F9FA;;
+}
+.text-muted{
+    padding-right: 15px !important;
+    padding-left: 15px;
+    margin-left: 15px !important;
+}
+.footer{
+    background-color: #F7F7F7;
+}
